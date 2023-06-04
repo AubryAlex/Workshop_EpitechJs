@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+      "@epitech.js/puppeteer-auth-provider": "^0.1.0",
+      "epitech.js": "^0.2.4"
+    }
+}
